@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "name": "SALEOR2CRM PUB",
+      "script": "yarn start:dev"
+    },
+    {
+      "name": "SALEOR2CRM SUB",
+      "script": "yarn start:dev:listener"
+    }
+  ]
+}
